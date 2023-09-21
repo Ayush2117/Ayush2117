@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayush2117
-- 👀 I’m interested in game development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning to code
 - 📫 How to reach me ...
 
